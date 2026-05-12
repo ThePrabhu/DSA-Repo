@@ -12,6 +12,7 @@ My structured DSA journey — from fundamentals to cracking product companies.
 |---|---------|------------|---------|--------|
 | 1 | Find max and min | Easy | Single loop | ⬜ |
 | 2 | Reverse an array | Easy | Two pointers | ⬜ |
+|3  |Finding Sorted Array | Easy | Comapring |     |
 
 
 
