@@ -10,9 +10,10 @@ My structured DSA journey — from fundamentals to cracking product companies.
 ### 01 Arrays
 | # | Problem | Difficulty | Pattern | Status |
 |---|---------|------------|---------|--------|
-| 1 | Find max and min | Easy | Single loop | ⬜ |
-| 2 | Reverse an array | Easy | Two pointers | ⬜ |
-|3  |Finding Sorted Array | Easy | Comapring |     |
+| 1 | Find max and min | Easy | Single loop | ✅ |
+| 2 | Reverse an array | Easy | Two pointers | ✅ |
+3 | Check if Array is Sorted | Easy | Array Traversal, Adjacent Comparison | ✅ |
+| 4 | Remove Duplicates from Sorted Array | Easy | Two Pointers, In-place Update | ✅ |
 
 
 
